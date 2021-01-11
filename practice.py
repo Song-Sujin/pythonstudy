@@ -29,7 +29,7 @@ answer = rmdot[:3] + str(len(rmdot)) + str(rmdot.count("e")) + "!"
 print("생성된 비밀번호 : %s" %answer)
 
 my_set = {1, 2, 3, 3, 3, 3}
-print(my_set)
+print(my_set) 
 # ---------------------------------------------------
 from random import *
 
